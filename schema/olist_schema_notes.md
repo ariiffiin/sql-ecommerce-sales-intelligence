@@ -331,9 +331,7 @@ This combination ensures:
 | Single country (Brazil) | Findings may not generalise globally |
 | No returns/refunds data | Can't calculate net revenue accurately |
 
-Acknowledging limitations in your README signals analytical maturity. It shows you understand that every dataset has boundaries — a green flag for any hiring manager.
-
 ---
 
 *Schema documented by Muhammad Ariffin Samsu — Olist E-Commerce Sales Intelligence Portfolio Project*  
-*Live notebook: [Kaggle →](https://www.kaggle.com/) | Repository: [GitHub →](https://github.com/)*
+*Live notebook: [Kaggle →]([https://www.kaggle.com/](https://www.kaggle.com/code/ariffinsamsu/notebook2fec4d9996)) | Repository: [GitHub →]([https://github.com/](https://github.com/ariiffiin/sql-ecommerce-sales-intelligence))*
