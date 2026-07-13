@@ -2,7 +2,7 @@
 -- Project : Olist E-Commerce Sales Intelligence
 -- Date    : July 2026
 -- Author  : Muhammad Ariffin Samsu
--- GitHub  : github.com/YOUR_USERNAME/sql-ecommerce-sales-intelligence
+-- GitHub  : github.com/ariiffiin/sql-ecommerce-sales-intelligence
 -- Dialect : SQLite (Kaggle Notebook environment)
 -- File    : 06_bonus_mom_growth.sql
 -- Analysis: Month-on-Month Revenue Growth

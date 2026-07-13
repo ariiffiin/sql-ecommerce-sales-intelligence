@@ -1,12 +1,14 @@
 -- ═══════════════════════════════════════════════════════════════════════
 -- Project  : Olist E-Commerce Sales Intelligence
+-- Date    : July 2026
+-- Author  : Muhammad Ariffin Samsu
+-- GitHub  : github.com/ariiffiin/sql-ecommerce-sales-intelligence
 -- File     : schema/schema_setup.sql
 -- Dialect  : SQLite
 -- Purpose  : DDL reference for all 7 tables in the Olist dataset.
 --            The actual database is loaded via Kaggle's hosted SQLite
 --            file — this file documents the schema for portfolio
 --            reference and serves as a rebuild script if needed.
--- Author   : Muhammad Ariffin Samsu
 -- ═══════════════════════════════════════════════════════════════════════
 
 -- SQLite does not enforce FK constraints by default.
